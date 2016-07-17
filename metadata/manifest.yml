@@ -2,7 +2,7 @@ Name: advanced-python
 Cartridge-Short-Name: ADVANCED_PYTHON
 Display-Name: Advanced Python 2.7
 Description: 'An advanced python cartridge utilising an Nginx reverse proxy and a choice of modern WSGI servers such as gevent or gunicorn'
-Version: '2.7'
+Version: '3.3'
 Versions:
 - '2.7'
 - '3.3'
